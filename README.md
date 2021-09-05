@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Abhishek Godara
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning data structures,algos,python
-- 💞️ I’m looking to collaborate on some project related to coding 
+- 🌱 I’m currently learning Web Development
+- 💞️ I’m looking to collaborate on some project related to DSA, web development
 - 📫 How to reach me... you can email me at abhishekgodara2202@gmail.com
 
 <!---
