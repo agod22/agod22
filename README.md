@@ -17,7 +17,7 @@ I'm a passionate programmer with a strong background in competitive programming,
 
 ## 📫 Contact Me  
 📩 Email: [abhishekgodara274@gmail.com](mailto:abhishekgodara274@gmail.com)  
-💼 LinkedIn: [Your LinkedIn Profile (if available)](https://www.linkedin.com/in/abhishek-godara/)   
+💼 LinkedIn: [Abhishek Godara](https://www.linkedin.com/in/abhishek-godara/)   
 
 🚀 Let's build something awesome together!
 <!---
